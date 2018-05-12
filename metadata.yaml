@@ -1,0 +1,27 @@
+_repo: The-Mountain-Spring-and-Other-Poems_15101
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Glass, Nancy Rebecca Campbell
+    alias: Glass, Nannie R.
+    birthdate: 1842
+    gutenberg_agent_id: '5855'
+    url: http://www.gutenberg.org/2009/agents/5855
+description: ''
+gutenberg_issued: '2005-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15101'
+  lccn: '13022358'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+title: The Mountain Spring and Other Poems
+url: http://www.gutenberg.org/ebooks/15101
